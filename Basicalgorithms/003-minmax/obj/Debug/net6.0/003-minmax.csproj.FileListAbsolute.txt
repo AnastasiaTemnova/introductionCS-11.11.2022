@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\bin\Debug\net6.0\003-minmax.exe
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\bin\Debug\net6.0\003-minmax.deps.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\bin\Debug\net6.0\003-minmax.runtimeconfig.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\bin\Debug\net6.0\003-minmax.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\bin\Debug\net6.0\003-minmax.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\obj\Debug\net6.0\003-minmax.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\obj\Debug\net6.0\003-minmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\obj\Debug\net6.0\003-minmax.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\obj\Debug\net6.0\003-minmax.AssemblyInfo.cs
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\obj\Debug\net6.0\003-minmax.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\obj\Debug\net6.0\003-minmax.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\obj\Debug\net6.0\refint\003-minmax.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\obj\Debug\net6.0\003-minmax.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\obj\Debug\net6.0\003-minmax.genruntimeconfig.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\003-minmax\obj\Debug\net6.0\ref\003-minmax.dll

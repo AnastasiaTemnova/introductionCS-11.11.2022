@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\obj\Debug\net6.0\002-счетчик и флаг.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\obj\Debug\net6.0\002-счетчик и флаг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\obj\Debug\net6.0\002-счетчик и флаг.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\obj\Debug\net6.0\002-счетчик и флаг.AssemblyInfo.cs
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\obj\Debug\net6.0\002-счетчик и флаг.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\bin\Debug\net6.0\002-счетчик и флаг.exe
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\bin\Debug\net6.0\002-счетчик и флаг.deps.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\bin\Debug\net6.0\002-счетчик и флаг.runtimeconfig.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\bin\Debug\net6.0\002-счетчик и флаг.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\bin\Debug\net6.0\002-счетчик и флаг.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\obj\Debug\net6.0\002-счетчик и флаг.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\obj\Debug\net6.0\refint\002-счетчик и флаг.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\obj\Debug\net6.0\002-счетчик и флаг.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\obj\Debug\net6.0\002-счетчик и флаг.genruntimeconfig.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\002-счетчик и флаг\obj\Debug\net6.0\ref\002-счетчик и флаг.dll
