@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\bin\Debug\net6.0\004-Equlid.exe
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\bin\Debug\net6.0\004-Equlid.deps.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\bin\Debug\net6.0\004-Equlid.runtimeconfig.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\bin\Debug\net6.0\004-Equlid.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\bin\Debug\net6.0\004-Equlid.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.AssemblyInfo.cs
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\obj\Debug\net6.0\refint\004-Equlid.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.genruntimeconfig.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\004-Equlid\obj\Debug\net6.0\ref\004-Equlid.dll

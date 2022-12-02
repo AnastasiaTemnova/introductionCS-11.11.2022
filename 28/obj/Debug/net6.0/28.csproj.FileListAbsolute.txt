@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\obj\Debug\net6.0\28.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\obj\Debug\net6.0\28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\obj\Debug\net6.0\28.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\obj\Debug\net6.0\28.AssemblyInfo.cs
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\obj\Debug\net6.0\28.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\bin\Debug\net6.0\28.exe
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\bin\Debug\net6.0\28.deps.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\bin\Debug\net6.0\28.runtimeconfig.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\bin\Debug\net6.0\28.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\bin\Debug\net6.0\28.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\obj\Debug\net6.0\28.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\obj\Debug\net6.0\refint\28.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\obj\Debug\net6.0\28.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\obj\Debug\net6.0\28.genruntimeconfig.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\28\obj\Debug\net6.0\ref\28.dll
