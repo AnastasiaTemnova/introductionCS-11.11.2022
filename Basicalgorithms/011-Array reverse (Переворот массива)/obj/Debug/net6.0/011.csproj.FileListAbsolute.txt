@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\bin\Debug\net6.0\011.exe
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\bin\Debug\net6.0\011.deps.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\bin\Debug\net6.0\011.runtimeconfig.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\bin\Debug\net6.0\011.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\bin\Debug\net6.0\011.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\obj\Debug\net6.0\011.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\obj\Debug\net6.0\011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\obj\Debug\net6.0\011.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\obj\Debug\net6.0\011.AssemblyInfo.cs
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\obj\Debug\net6.0\011.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\obj\Debug\net6.0\011.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\obj\Debug\net6.0\refint\011.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\obj\Debug\net6.0\011.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\obj\Debug\net6.0\011.genruntimeconfig.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\Basicalgorithms\011\obj\Debug\net6.0\ref\011.dll
