@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\bin\Debug\net6.0\76.exe
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\bin\Debug\net6.0\76.deps.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\bin\Debug\net6.0\76.runtimeconfig.json
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\bin\Debug\net6.0\76.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\bin\Debug\net6.0\76.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\obj\Debug\net6.0\76.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\obj\Debug\net6.0\76.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\obj\Debug\net6.0\76.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\obj\Debug\net6.0\76.AssemblyInfo.cs
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\obj\Debug\net6.0\76.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\obj\Debug\net6.0\76.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\obj\Debug\net6.0\refint\76.dll
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\obj\Debug\net6.0\76.pdb
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\obj\Debug\net6.0\76.genruntimeconfig.cache
+C:\Users\User\Desktop\TAA\introductionCS-11.11.2022 ТАА\introductionCS-11.11.2022\introductionCS-11.11.2022\76\obj\Debug\net6.0\ref\76.dll
